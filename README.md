@@ -36,7 +36,7 @@ Still in VERY EARLY ALPHA! Use at your own risk.
 
 2. **Run the Application**
    ```sh
-   python SwiftBrowseB1Alpha.py
+   python3 SwiftBrowseB1Alpha.py
    ```
 
 #### macOS
@@ -47,7 +47,7 @@ Still in VERY EARLY ALPHA! Use at your own risk.
 
 2. **Run the Application**
    ```sh
-   python SwiftBrowseB1Alpha.py
+   python3 SwiftBrowseB1Alpha.py
    ```
 
 #### Linux
